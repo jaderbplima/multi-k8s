@@ -12,6 +12,7 @@ spec:
   tls:
     - hosts:
         - bebemenina.com.br
+        - www.bebemenina.com.br
       secretName: k8s-multi-com
   rules:
     - host: bebemenina.com.br
